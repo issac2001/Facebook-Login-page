@@ -59,12 +59,12 @@ body{
 }
 .left-sec{
     width: 57%;
-    height: 500px;
+    height: 300px;
     float: left;
 }
 .right-sec{
     width: 43%;
-    height: 500px;
+    height: 300px;
     float: left;
 }
 .main{
@@ -141,7 +141,7 @@ label{
     font-size: 13px;
     color: #595b62;
     margin-bottom: 10px;
-    margin-top: 9px;
+    margin-top: 15px;
 }
 .para4{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -159,7 +159,7 @@ label{
     color: #fff;
     font-size: 20px;
     border-radius: 5px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 .footerimg{
     width: 100%;
